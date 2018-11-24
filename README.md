@@ -1,9 +1,10 @@
-# Predicting Abalone’s age by Machine Learnings models and evaluating best model with Hyperparameter Tuning
+# Predicting Abalone’s age by various ML regression models and evaluating best model with Grid Search & Hyperparameter Tuning
 
-The dataset was obtained from UCI Machine Learning Repository. This data consist of physical measurements of abalone from which we have to predict the age.
-Brief Summary on the Topic:
+This data consist of physical measurements of abalone.
 Source: UCI Repository
 https://archive.ics.uci.edu/ml/datasets/Website+Phishing
+
+## Objective- To predict the age in years based on number of rings predicted based on different attributes as a measurement units. 
 
 ## Data Set Information:
 •	Predicting the age of abalone from physical measurements. 
