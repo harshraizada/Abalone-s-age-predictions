@@ -1,4 +1,4 @@
-# Predicted Abalone’s age by Machine Learnings models and evaluating best model with Hyperparameter Tuning
+# Predicting Abalone’s age by Machine Learnings models and evaluating best model with Hyperparameter Tuning
 
 The dataset was obtained from UCI Machine Learning Repository. This data consist of physical measurements of abalone from which we have to predict the age.
 Brief Summary on the Topic:
